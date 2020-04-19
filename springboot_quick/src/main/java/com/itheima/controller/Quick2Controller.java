@@ -12,7 +12,7 @@ public class Quick2Controller {
     private String name;
 
     /*
-    hahahaha
+    hahahahahahahah
      */
     @Value("${person.addr}")
     private String addr;
